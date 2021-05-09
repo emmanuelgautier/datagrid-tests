@@ -1,0 +1,9 @@
+{
+  "env": "production",
+  "server": {
+    "port": "8000"
+  },
+  "database": {
+    "path": "./data/investments.sqlite"
+  }
+}
